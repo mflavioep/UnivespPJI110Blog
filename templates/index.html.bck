@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<HTML lang="pt">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/estilo.css') }}">
+        <title>Serviço de Postagem Univesp</title>
+    </head>
+    <body>
+        <h1>Bem vindo ao serviço de postagens!</h1>
+    </body>
+</HTML>
